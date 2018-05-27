@@ -46,6 +46,7 @@ public class Main extends AppCompatActivity {
     private final static int CAMERA_PERMISSION = 1;
 
     private TextView copyright;
+    private TextView infos;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -54,7 +55,9 @@ public class Main extends AppCompatActivity {
             ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.CAMERA}, CAMERA_PERMISSION);
         }
         copyright = findViewById(R.id.copyright);
+        infos = findViewById(R.id.infos);
         copyright.setMovementMethod(LinkMovementMethod.getInstance());
+        infos.setMovementMethod(LinkMovementMethod.getInstance());
     }
 
     @Override

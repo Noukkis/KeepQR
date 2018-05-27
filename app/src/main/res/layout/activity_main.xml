@@ -32,8 +32,8 @@
 
     <TextView
         android:id="@+id/infos"
-        android:layout_width="354dp"
-        android:layout_height="146dp"
+        android:layout_width="350dp"
+        android:layout_height="330dp"
         android:text="@string/infos"
         android:textAlignment="center"
         android:textAppearance="@android:style/TextAppearance.Material.Medium"
@@ -45,10 +45,9 @@
 
     <TextView
         android:id="@+id/copyright"
-        android:layout_width="356dp"
-        android:layout_height="55dp"
+        android:layout_width="350dp"
+        android:layout_height="64dp"
         android:layout_alignParentBottom="true"
-        android:autoLink="web"
         android:text="@string/copyright"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
