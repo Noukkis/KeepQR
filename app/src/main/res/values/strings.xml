@@ -32,7 +32,7 @@
         This application is a plugin for
         <a href='https://play.google.com/store/apps/details?id=keepass2android.keepass2android'>Keepass2Android</a>\n\n
         It's made to work with <a href='http://node.gwyrin.ch/keepQR'>keepQR Web</a>\n\n
-        You can find the sources on <a href='http://node.gwyrin.ch//keepQR'>Github</a>
+        You can find the sources on <a href='https://github.com/Noukkis/KeepQR'>Github</a>
     </string>
     <string name="copyright">
         Copyright © 2018 Noukkis. All rights reserved.\nThis work is licensed under the terms of the <a href='https://opensource.org/licenses/mit-license.php'>MIT license</a>.
