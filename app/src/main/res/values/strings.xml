@@ -1,0 +1,40 @@
+<!--
+  ~ The MIT License
+  ~
+  ~ Copyright (c) 2018 Noukkis.
+  ~
+  ~ Permission is hereby granted, free of charge, to any person obtaining a copy
+  ~ of this software and associated documentation files (the "Software"), to deal
+  ~ in the Software without restriction, including without limitation the rights
+  ~ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  ~ copies of the Software, and to permit persons to whom the Software is
+  ~ furnished to do so, subject to the following conditions:
+  ~
+  ~ The above copyright notice and this permission notice shall be included in
+  ~ all copies or substantial portions of the Software.
+  ~
+  ~ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  ~ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  ~ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  ~ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  ~ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+  ~ THE SOFTWARE.
+  -->
+
+<resources>
+    <string name="app_name">KeepQR</string>
+    <string name="kp2aplugin_title">KeepQR</string>
+    <string name="kp2aplugin_shortdesc">Scan QR to give Passwords</string>
+    <string name="kp2aplugin_author">Noukkis</string>
+
+    <string name="infos">
+        This application is a plugin for
+        <a href='https://play.google.com/store/apps/details?id=keepass2android.keepass2android'>Keepass2Android</a>\n\n
+        It's made to work with <a href='http://node.gwyrin.ch/keepQR'>keepQR Web</a>\n\n
+        You can find the sources on <a href='http://node.gwyrin.ch//keepQR'>Github</a>
+    </string>
+    <string name="copyright">
+        Copyright © 2018 Noukkis. All rights reserved.\nThis work is licensed under the terms of the <a href='https://opensource.org/licenses/mit-license.php'>MIT license</a>.
+    </string>
+</resources>
